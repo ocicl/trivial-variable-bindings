@@ -1,0 +1,10 @@
+* trivial-variable-bindings
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://gitlab.com/ediethelm/trivial-variable-bindings.git   |
+| commit  | {"messa  |
+| systems | trivial-variable-bindings |
+|---------+-------------------------------------------|
+
