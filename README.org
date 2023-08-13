@@ -3,8 +3,9 @@
 A Common Lisp library that offers a way to handle associations between
 a place-holder (aka. variable) and a value.
 
+
 |---------+----------------------------------------------------------------|
 | source  | git:https://gitlab.com/ediethelm/trivial-variable-bindings.git |
-| commit  | db802979b54f4eee72f17b3c6ee7d6f6ddaf77ba                       |
+| commit  | db80297                                                        |
 | systems | trivial-variable-bindings                                      |
 |---------+----------------------------------------------------------------|
